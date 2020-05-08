@@ -1,0 +1,8 @@
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.deps.json
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.pdb
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.csprojAssemblyReference.cache
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.AssemblyInfoInputs.cache
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.AssemblyInfo.cs
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\release\netstandard2.0\ubuntu.18.04-x64\ServerResourcesDataAccess.pdb

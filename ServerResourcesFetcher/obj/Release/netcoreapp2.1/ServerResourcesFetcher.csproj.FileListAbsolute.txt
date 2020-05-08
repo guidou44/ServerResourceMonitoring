@@ -1,0 +1,13 @@
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesFetcher.deps.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesFetcher.runtimeconfig.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesFetcher.runtimeconfig.dev.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesFetcher.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesFetcher.pdb
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\bin\Release\netcoreapp2.1\ServerResourcesDataAccess.pdb
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Release\netcoreapp2.1\ServerResourcesFetcher.csprojAssemblyReference.cache
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Release\netcoreapp2.1\ServerResourcesFetcher.AssemblyInfoInputs.cache
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Release\netcoreapp2.1\ServerResourcesFetcher.AssemblyInfo.cs
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Release\netcoreapp2.1\ServerResourcesFetcher.csproj.CopyComplete
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Release\netcoreapp2.1\ServerResourcesFetcher.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Release\netcoreapp2.1\ServerResourcesFetcher.pdb

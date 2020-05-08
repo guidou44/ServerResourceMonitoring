@@ -1,0 +1,13 @@
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\EfCoreTester.deps.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\EfCoreTester.runtimeconfig.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\EfCoreTester.runtimeconfig.dev.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\EfCoreTester.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\EfCoreTester.pdb
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\bin\Release\netcoreapp2.1\ServerResourcesDataAccess.pdb
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\obj\Release\netcoreapp2.1\EfCoreTester.csprojAssemblyReference.cache
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\obj\Release\netcoreapp2.1\EfCoreTester.AssemblyInfoInputs.cache
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\obj\Release\netcoreapp2.1\EfCoreTester.AssemblyInfo.cs
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\obj\Release\netcoreapp2.1\EfCoreTester.csproj.CopyComplete
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\obj\Release\netcoreapp2.1\EfCoreTester.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\EfCoreTester\obj\Release\netcoreapp2.1\EfCoreTester.pdb

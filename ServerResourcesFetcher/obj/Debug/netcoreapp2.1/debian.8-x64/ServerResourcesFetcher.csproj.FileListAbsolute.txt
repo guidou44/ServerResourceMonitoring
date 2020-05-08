@@ -1,0 +1,3 @@
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Debug\netcoreapp2.1\debian.8-x64\ServerResourcesFetcher.csprojAssemblyReference.cache
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Debug\netcoreapp2.1\debian.8-x64\ServerResourcesFetcher.AssemblyInfoInputs.cache
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesFetcher\obj\Debug\netcoreapp2.1\debian.8-x64\ServerResourcesFetcher.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\Release\netstandard2.0\ServerResourcesDataAccess.deps.json
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\Release\netstandard2.0\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\Release\netstandard2.0\ServerResourcesDataAccess.pdb
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.csprojAssemblyReference.cache
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.AssemblyInfoInputs.cache
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.AssemblyInfo.cs
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.pdb
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\Release\netstandard2.0\ServerResourcesDataAccess.deps.json
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\Release\netstandard2.0\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\bin\Release\netstandard2.0\ServerResourcesDataAccess.pdb
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.csprojAssemblyReference.cache
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.AssemblyInfoInputs.cache
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.AssemblyInfo.cs
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.dll
+D:\Guillaume\Desktop\Internet Explorer\PROJECTS\C#\ServerProject\ServerResourcesMonitoring\ServerResourcesDataAccess\obj\Release\netstandard2.0\ServerResourcesDataAccess.pdb
